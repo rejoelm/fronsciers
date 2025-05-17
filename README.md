@@ -183,10 +183,6 @@ The application is configured for deployment on Replit with automatic HTTPS and 
 
 The Fronsciers platform was developed by Rejoel Mangasa Siagian and team from the Faculty of Medicine, Universitas Indonesia.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 For questions or support, please contact: rejoel.mangasa@ui.ac.id
