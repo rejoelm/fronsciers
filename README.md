@@ -5,6 +5,7 @@
 Fronsciers is a cutting-edge decentralized research platform that leverages blockchain technology to revolutionize academic collaboration and research discovery. The platform aims to provide truly immutable, transparent, and interoperable Direct On-Chain Identifiers (DOCIs) on the Solana blockchain, emulating and extending the traditional DOI system capabilities.
 
 **Beta Test:** https://fronsciers.replit.app/ 
+
 **GitHub Repository:** [https://github.com/rejoelm/fronsciers](https://github.com/rejoelm/fronsciers)
 
 ## Core Features
