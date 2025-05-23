@@ -310,12 +310,13 @@ The FRNS token serves multiple critical functions within the ecosystem:
 - **Governance Voting**: Community decision-making participation
 - **Premium Features**: Access to advanced analytics and tools
 
-#### Token Distribution:
-- **Community Rewards**: 40% allocated to user incentives
-- **Development Fund**: 25% for ongoing platform improvements
-- **Ecosystem Growth**: 20% for partnerships and integrations
+#### Token Distribution Proposal:
+- **Community & Reviewer Pool**: 20% allocated to user incentives
+- **Author's Rewards**: 21% for incentives as contribution rewards to the platform 
+- **Strategiv Investors/Partners**: 20% for partnerships and integrations
 - **Team Allocation**: 10% with multi-year vesting schedules
 - **Reserve Fund**: 5% for emergency and contingency purposes
+- **Fronsciers Treasury**: 20% for partnerships and integrations
 
 ### 5.2 Sustainable Economics
 
@@ -579,7 +580,6 @@ Join us in building this future. Together, we can create a more open, equitable,
 *This white paper represents the current vision and technical implementation of Fronsciers as of 2025. The platform continues to evolve based on community feedback, technological advances, and academic publishing needs.*
 
 **Document Version**: 2.0  
-**Last Updated**: January 2025  
+**Last Updated**: May 2025  
 **Authors**: Fronsciers Development Team  
-**Contact**: hello@fronsciers.io  
-**Website**: https://fronsciers.io
+**Contact**: fronsciers@gmail.com
